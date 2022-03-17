@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Spr0t
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning c#
+- 📫 How to reach me serganas995@gmail.com
